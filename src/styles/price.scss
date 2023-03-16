@@ -1,0 +1,77 @@
+.price{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    gap: 2rem;
+  
+
+}
+.one{
+    width: 18rem;
+    height: 28rem;
+  
+    border-radius: 0.5rem;
+    padding: 2rem 2rem 2rem 2rem;
+    line-height: 2.5rem;
+    background-color: rgb(246, 245, 245);
+    box-shadow: 0.1rem 0.1rem 0.5rem rgb(227, 223, 223);
+  
+}
+.two{
+    width: 18rem;
+    height: 28rem;
+  
+    border-radius: 0.5rem;
+    padding: 2rem 2rem 2rem 2rem;
+    line-height: 2.3rem;
+    background-color: rgb(246, 245, 245);
+    box-shadow: 0.1rem 0.1rem 0.5rem rgb(227, 223, 223);
+  
+}
+.three{
+    width: 18rem;
+    height: 28rem;
+  
+    border-radius: 0.5rem;
+    padding: 1rem 2rem 1rem 2rem;
+    line-height: 2.15rem;
+    background-color: rgb(55, 53, 74);
+    box-shadow: 0.1rem 0.1rem 0.5rem rgb(227, 223, 223);
+    color: white;
+  
+}
+.icon{
+    font-size: 2rem;
+}
+.one-p{
+    font-size: 3rem;
+    padding-top: 1rem;
+}
+.one-span{
+    font-size: 1rem;
+
+}
+.button{
+    width: 13rem;
+    height: 2rem;
+    background-color: rgb(46, 130, 135);
+    color: white;
+    border-radius: 0.5rem;
+    border: none;
+}
+.search{
+    width: 15rem;
+    height: 3rem;
+    border: none;
+    background-color: aliceblue;
+    border-radius: 0.5rem;
+}
+.search-1{
+    width: 15rem;
+    height: 3rem;
+    border: none;
+    background-color: rgb(203, 207, 207);
+    border-radius: 0.5rem;
+
+}
